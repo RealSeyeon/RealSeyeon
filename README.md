@@ -25,10 +25,4 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    mg src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
     
-
-
