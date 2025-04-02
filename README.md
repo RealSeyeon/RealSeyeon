@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:ee82ee,100:e6e6fa&animation=twinkling&height=300&section=header&section=header&text=🍀%뚱땅뚱땅%20개발자%일기%🍀&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:ee82ee,100:e6e6fa&animation=twinkling&height=300&section=header&section=header&text=:crown:%뚱땅뚱땅%20개발자%일기%:crown:&fontColor=d6ace6)
 
 
 <div style="text-align: left;"> 
