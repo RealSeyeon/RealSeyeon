@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=FFDCDC&height=120&section=header&text=안녕안녕))
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&section=header&&text=good%20to%20see&20%you))
 
 <!--
 **SaeyeonJeong/SaeyeonJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
