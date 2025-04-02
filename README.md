@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:ee82ee,100:e6e6fa&animation=twinkling&height=300&section=header&section=header&text=💗good%20to%20see&20%you💗)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:ee82ee,100:e6e6fa&animation=twinkling&height=300&section=header&section=header&text=good%20to%20see&20%you&fontColor=d6ace6)
 
 
 <div style="text-align: left;"> 
