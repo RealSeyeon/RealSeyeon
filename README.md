@@ -8,28 +8,35 @@
     </div>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   
-  <!-- 왼쪽: Tech Stack -->
-  <div style="flex: 1; min-width: 300px;">
-    <h2>🛠️ Tech Stacks</h2>
-    <br/>
-    <div>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-    </div>
-  </div>
+## 🛠 Tech Stack  
+Techs that I've used at least once  
 
-  <!-- 오른쪽: 3D 블록 (크게!) -->
+<!-- Tech stack badges -->
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Stats
+
+<!-- GitHub Stats & Most Used Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealSeyeon&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RealSeyeon&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
+</div>
+
+
+
   <div style="flex: 1; text-align: right; min-width: 300px;">
     <img src="./profile-3d-contrib/profile-gitblock.svg" width="500px">
   </div>
