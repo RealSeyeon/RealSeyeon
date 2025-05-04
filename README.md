@@ -32,10 +32,10 @@ Techs that I've used at least once
 
 <!-- GitHub Stats & Most Used Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealSeyeon&layout=compact&theme=tokyonight&hide_border=true" height="140px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RealSeyeon&show_icons=true&theme=tokyonight&hide_border=true" height="140px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealSeyeon&layout=compact&theme=tokyonight&hide_border=true" height="130px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RealSeyeon&show_icons=true&theme=tokyonight&hide_border=true" height="130px"/>
   <a href="https://solved.ac/abc07069/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abc07069" alt="solved.ac tier" height="140px/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abc07069" alt="solved.ac tier" height="130px/">
   </a>
 </div>
 
