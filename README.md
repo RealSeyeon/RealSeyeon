@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce5ff,100:d4b8ff&height=120&text=🍒뚱땅%20뚱땅%20굴러가기🍒&animation=&fontColor=b20148&fontSize=50" />
-    </div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed4a99,100:dbb8ff&height=120&text=🍒뚱땅%20뚱땅%20굴러가기🍒&animation=&fontColor=f5d1ed&fontSize=40" />
+</div>
+    
     
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>  
@@ -12,7 +13,7 @@
 ## 🛠 Tech Stack  
 Techs that I've used at least once  
 
-<!-- Tech stack badges -->
+
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -30,19 +31,19 @@ Techs that I've used at least once
 
 ## 📊 Stats
 
-<!-- GitHub Stats & Most Used Languages -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealSeyeon&layout=compact&theme=tokyonight&hide_border=true" height="130px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RealSeyeon&show_icons=true&theme=tokyonight&hide_border=true" height="130px"/>
-  <a href="https://solved.ac/abc07069/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abc07069" alt="solved.ac tier" height="130px/">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealSeyeon&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RealSeyeon&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
+
 </div>
 
-<!-- 3D Block + Tier card 나란히 -->
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="500px">
-  
+
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="400px">
+  <a href="https://solved.ac/abc07069/" style="transform: translateY(60px);">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abc07069" alt="solved.ac tier" style="height: 200px;">
+  </a>
 </div>
 
 </div>
