@@ -40,6 +40,8 @@ Techs that I've used at least once
     <img src="./profile-3d-contrib/profile-gitblock.svg" width="500px">
   </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/abc07069/)
+
 </div>
 
 
