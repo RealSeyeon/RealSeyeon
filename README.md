@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:ee82ee,100:e6e6fa&animation=twinkling&height=300&section=header&text=뚱땅뚱땅%20개발자%20일기%20&fontColor=d6ace6)
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce5ff,100:d4b8ff&height=120&text=🍒뚱땅%20뚱땅%20굴러가기🍒&animation=&fontColor=b20148&fontSize=50" />
+    </div>
+    
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div> 
